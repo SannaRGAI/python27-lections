@@ -1,0 +1,22 @@
+ to any command can be used command --HELP (to win description how to use this command 
+cd test (if its exist)
+cd .. (return family folder)
+cd .(move to the same folder /not moving anywhere)
+cd (moving to home folder)
+cd~ (moving to home folder)
+pwd (root folder guiding to current folder)
+cd/home
+mkdir test (create new folder)
+mkdir test/new_dir (create new folder new_dir  in existing folder)
+touch test. txt (create .txt)
+mkdir text. txt 
+-a
+rm -rf (delete folder with all inner stuff forever)
+sudo rm / rf  (clear all files) 
+!!!! neever!!! sudo rm - rf/
+cat (linux test. txt  ( see file)
+ls test (see all files inside)
+ls - a test (see all files including hidden)
+
+
+
