@@ -17,6 +17,7 @@ sudo rm / rf  (clear all files)
 cat (linux test. txt  ( see file)
 ls test (see all files inside)
 ls - a test (see all files including hidden)
-
+ls - l (see all files with bigger description)
+nano python 27 
 
 
